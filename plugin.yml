@@ -1,0 +1,12 @@
+﻿name: goo
+main: goo\goo
+version: 1.0.0
+api: [1.11.0]
+load: POSTWORLD
+author: soradore
+description: goo
+commands:
+ goo:
+  description: "/goo 名前でグーします"
+ check:
+  description: "順位"
